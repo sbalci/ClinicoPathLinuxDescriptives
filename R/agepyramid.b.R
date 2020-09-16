@@ -1,8 +1,11 @@
 #' @title Age Pyramid
 #'
+#'
+#'
+#'
 #' @importFrom R6 R6Class
 #' @import jmvcore
-#' @importFrom magrittr %>%
+#'
 
 # https://stackoverflow.com/questions/14680075/simpler-population-pyramid-in-ggplot2
 
