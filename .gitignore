@@ -58,8 +58,8 @@ build/*.js
 build/*.R
 build/js
 build/R
-# *.jmo
-# *.gitignore
+*.jmo
+*.gitignore
 /build/
 temp
 build-macos-*
