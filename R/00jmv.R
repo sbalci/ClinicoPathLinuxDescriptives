@@ -416,4 +416,11 @@
         `volume`=25, 
         `pages`="127-141", 
         `doi`="10.1002/sim.2331", 
-        `url`="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.2331"))
+        `url`="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.2331"), 
+    `venn`=list(
+        `type`="software", 
+        `author`="Linlin Yan", 
+        `year`=2020, 
+        `title`=" Venn Diagram by ggplot2, with really easy-to-use API", 
+        `publisher`="[R package]. Retrieved from https://github.com/yanlinlin82/ggvenn", 
+        `url`="https://github.com/yanlinlin82/ggvenn"))

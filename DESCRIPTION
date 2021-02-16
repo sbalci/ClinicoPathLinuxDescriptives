@@ -1,8 +1,8 @@
 Type: Package
-Package: ClinicoPathDescriptives
+Package: ClinicoPathLinuxDescriptives
 Title: Descriptives Functions for Clinicopathological Research
-Version: 0.0.2.0041
-Date: 2020-08-31
+Version: 0.0.2.0065
+Date: 2021-02-16
 Authors@R: 
     person(given = "Serdar",
            family = "Balci",
@@ -17,7 +17,7 @@ Description: Descriptives Functions for Clinicopathological Research
     survival analysis with survival tables, survival plots, and natural
     language summaries.
 URL: https://github.com/sbalci/ClinicoPathJamoviModule/,
-    https://github.com/sbalci/ClinicoPathDescriptives/,
+    https://github.com/sbalci/ClinicoPathLinuxDescriptives/,
     https://sbalci.github.io/ClinicoPathJamoviModule/
 BugReports: 
     https://github.com/sbalci/ClinicoPathJamoviModule/issues/
@@ -43,7 +43,8 @@ Imports:
 Remotes:
     spgarbet/tangram,
     mayoverse/arsenal,
-    carloscinelli/benford.analysis
+    carloscinelli/benford.analysis,
+    yanlinlin82/ggvenn
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

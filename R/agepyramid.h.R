@@ -11,7 +11,7 @@ agepyramidOptions <- if (requireNamespace('jmvcore')) R6::R6Class(
             female = NULL, ...) {
 
             super$initialize(
-                package='ClinicoPathDescriptives',
+                package='ClinicoPathLinuxDescriptives',
                 name='agepyramid',
                 requiresData=TRUE,
                 ...)
@@ -103,7 +103,7 @@ agepyramidBase <- if (requireNamespace('jmvcore')) R6::R6Class(
     public = list(
         initialize = function(options, data=NULL, datasetId="", analysisId="", revision=0) {
             super$initialize(
-                package = 'ClinicoPathDescriptives',
+                package = 'ClinicoPathLinuxDescriptives',
                 name = 'agepyramid',
                 version = c(1,0,0),
                 options = options,

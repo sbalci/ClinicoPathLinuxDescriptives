@@ -9,7 +9,7 @@ benfordOptions <- if (requireNamespace('jmvcore')) R6::R6Class(
             var = NULL, ...) {
 
             super$initialize(
-                package='ClinicoPathDescriptives',
+                package='ClinicoPathLinuxDescriptives',
                 name='benford',
                 requiresData=TRUE,
                 ...)
@@ -43,7 +43,9 @@ benfordResults <- if (requireNamespace('jmvcore')) R6::R6Class(
             super$initialize(
                 options=options,
                 name="",
-                title="Benford Analysis")
+                title="Benford Analysis",
+                refs=list(
+                    "benford.analysis"))
             self$add(jmvcore::Html$new(
                 options=options,
                 name="todo",
@@ -71,7 +73,7 @@ benfordBase <- if (requireNamespace('jmvcore')) R6::R6Class(
     public = list(
         initialize = function(options, data=NULL, datasetId="", analysisId="", revision=0) {
             super$initialize(
-                package = 'ClinicoPathDescriptives',
+                package = 'ClinicoPathLinuxDescriptives',
                 name = 'benford',
                 version = c(1,0,0),
                 options = options,
