@@ -6,7 +6,7 @@ jms: '1.0'
 authors:
   - Serdar Balci
 maintainer: Serdar Balci <drserdarbalci@gmail.com>
-date: '2020-08-31'
+date: '2021-03-27'
 type: R
 description: >-
   Descriptives Functions for Clinicopathological Research Descriptive functions
