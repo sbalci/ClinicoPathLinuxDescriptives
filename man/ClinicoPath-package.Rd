@@ -22,7 +22,7 @@ For more documentation, see the
 Useful links:
 \itemize{
   \item \url{https://github.com/sbalci/ClinicoPathJamoviModule/}
-  \item \url{https://github.com/sbalci/ClinicoPathDescriptives/}
+  \item \url{https://github.com/sbalci/ClinicoPathLinuxDescriptives/}
   \item \url{https://sbalci.github.io/ClinicoPathJamoviModule/}
   \item Report bugs at \url{https://github.com/sbalci/ClinicoPathJamoviModule/issues/}
 }

@@ -1,8 +1,8 @@
 Type: Package
 Package: ClinicoPathLinuxDescriptives
 Title: Descriptives Functions for Clinicopathological Research
-Version: 0.0.2.0065
-Date: 2021-02-16
+Version: 0.0.2.0084
+Date: 2021-02-14
 Authors@R: 
     person(given = "Serdar",
            family = "Balci",
@@ -39,10 +39,10 @@ Imports:
     tidyr,
     gtsummary,
     kableExtra,
-    finalfit
+    finalfit,
+    tangram,
+    arsenal
 Remotes:
-    spgarbet/tangram,
-    mayoverse/arsenal,
     carloscinelli/benford.analysis,
     yanlinlin82/ggvenn
 Encoding: UTF-8

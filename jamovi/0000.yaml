@@ -1,12 +1,12 @@
 ---
 title: Descriptives Functions for Clinicopathological Research
 name: ClinicoPathLinuxDescriptives
-version: 0.0.2.0065
+version: 0.0.2.0084
 jms: '1.0'
 authors:
   - Serdar Balci
 maintainer: Serdar Balci <drserdarbalci@gmail.com>
-date: '2021-02-16'
+date: '2021-04-14'
 type: R
 description: >-
   Descriptives Functions for Clinicopathological Research Descriptive functions
@@ -70,6 +70,6 @@ datasets:
       - Data Summary
       - Cross Tables
 usesNative: true
-minApp: 1.2.19
+minApp: 1.8.0
 
 ...
