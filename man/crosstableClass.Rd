@@ -9,7 +9,7 @@ Cross Table
 Cross Table
 }
 \section{Super classes}{
-\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathLinuxDescriptives:crosstableBase]{ClinicoPathLinuxDescriptives::crosstableBase}} -> \code{crosstableClass}
+\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathDescriptives:crosstableBase]{ClinicoPathDescriptives::crosstableBase}} -> \code{crosstableClass}
 }
 \section{Methods}{
 \subsection{Public methods}{
@@ -46,7 +46,7 @@ Cross Table
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="serialize">}\href{../../jmvcore/html/Analysis.html#method-serialize}{\code{jmvcore::Analysis$serialize()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setError">}\href{../../jmvcore/html/Analysis.html#method-setError}{\code{jmvcore::Analysis$setError()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setStatus">}\href{../../jmvcore/html/Analysis.html#method-setStatus}{\code{jmvcore::Analysis$setStatus()}}\out{</span>}
-\item \out{<span class="pkg-link" data-pkg="ClinicoPathLinuxDescriptives" data-topic="crosstableBase" data-id="initialize">}\href{../../ClinicoPathLinuxDescriptives/html/crosstableBase.html#method-initialize}{\code{ClinicoPathLinuxDescriptives::crosstableBase$initialize()}}\out{</span>}
+\item \out{<span class="pkg-link" data-pkg="ClinicoPathDescriptives" data-topic="crosstableBase" data-id="initialize">}\href{../../ClinicoPathDescriptives/html/crosstableBase.html#method-initialize}{\code{ClinicoPathDescriptives::crosstableBase$initialize()}}\out{</span>}
 }
 \out{</details>}
 }

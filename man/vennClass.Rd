@@ -9,7 +9,7 @@ Venn Diagram
 Venn Diagram
 }
 \section{Super classes}{
-\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathLinuxDescriptives:vennBase]{ClinicoPathLinuxDescriptives::vennBase}} -> \code{vennClass}
+\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathDescriptives:vennBase]{ClinicoPathDescriptives::vennBase}} -> \code{vennClass}
 }
 \section{Methods}{
 \subsection{Public methods}{
@@ -46,7 +46,7 @@ Venn Diagram
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="serialize">}\href{../../jmvcore/html/Analysis.html#method-serialize}{\code{jmvcore::Analysis$serialize()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setError">}\href{../../jmvcore/html/Analysis.html#method-setError}{\code{jmvcore::Analysis$setError()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setStatus">}\href{../../jmvcore/html/Analysis.html#method-setStatus}{\code{jmvcore::Analysis$setStatus()}}\out{</span>}
-\item \out{<span class="pkg-link" data-pkg="ClinicoPathLinuxDescriptives" data-topic="vennBase" data-id="initialize">}\href{../../ClinicoPathLinuxDescriptives/html/vennBase.html#method-initialize}{\code{ClinicoPathLinuxDescriptives::vennBase$initialize()}}\out{</span>}
+\item \out{<span class="pkg-link" data-pkg="ClinicoPathDescriptives" data-topic="vennBase" data-id="initialize">}\href{../../ClinicoPathDescriptives/html/vennBase.html#method-initialize}{\code{ClinicoPathDescriptives::vennBase$initialize()}}\out{</span>}
 }
 \out{</details>}
 }

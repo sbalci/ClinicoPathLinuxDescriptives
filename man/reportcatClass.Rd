@@ -12,7 +12,7 @@ Summary of Categorical Variables
 Summary of Categorical Variables
 }
 \section{Super classes}{
-\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathLinuxDescriptives:reportcatBase]{ClinicoPathLinuxDescriptives::reportcatBase}} -> \code{reportcatClass}
+\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathDescriptives:reportcatBase]{ClinicoPathDescriptives::reportcatBase}} -> \code{reportcatClass}
 }
 \section{Methods}{
 \subsection{Public methods}{
@@ -49,7 +49,7 @@ Summary of Categorical Variables
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="serialize">}\href{../../jmvcore/html/Analysis.html#method-serialize}{\code{jmvcore::Analysis$serialize()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setError">}\href{../../jmvcore/html/Analysis.html#method-setError}{\code{jmvcore::Analysis$setError()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setStatus">}\href{../../jmvcore/html/Analysis.html#method-setStatus}{\code{jmvcore::Analysis$setStatus()}}\out{</span>}
-\item \out{<span class="pkg-link" data-pkg="ClinicoPathLinuxDescriptives" data-topic="reportcatBase" data-id="initialize">}\href{../../ClinicoPathLinuxDescriptives/html/reportcatBase.html#method-initialize}{\code{ClinicoPathLinuxDescriptives::reportcatBase$initialize()}}\out{</span>}
+\item \out{<span class="pkg-link" data-pkg="ClinicoPathDescriptives" data-topic="reportcatBase" data-id="initialize">}\href{../../ClinicoPathDescriptives/html/reportcatBase.html#method-initialize}{\code{ClinicoPathDescriptives::reportcatBase$initialize()}}\out{</span>}
 }
 \out{</details>}
 }

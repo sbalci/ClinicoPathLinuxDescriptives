@@ -5,8 +5,8 @@
 #'
 #' @importFrom R6 R6Class
 #' @import jmvcore
-#' @import ggvenn
-
+#'
+#'
 
 vennClass <- if (requireNamespace('jmvcore'))
     R6::R6Class(

@@ -12,7 +12,7 @@ Table One
 Table One
 }
 \section{Super classes}{
-\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathLinuxDescriptives:tableoneBase]{ClinicoPathLinuxDescriptives::tableoneBase}} -> \code{tableoneClass}
+\code{\link[jmvcore:Analysis]{jmvcore::Analysis}} -> \code{\link[ClinicoPathDescriptives:tableoneBase]{ClinicoPathDescriptives::tableoneBase}} -> \code{tableoneClass}
 }
 \section{Methods}{
 \subsection{Public methods}{
@@ -49,7 +49,7 @@ Table One
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="serialize">}\href{../../jmvcore/html/Analysis.html#method-serialize}{\code{jmvcore::Analysis$serialize()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setError">}\href{../../jmvcore/html/Analysis.html#method-setError}{\code{jmvcore::Analysis$setError()}}\out{</span>}
 \item \out{<span class="pkg-link" data-pkg="jmvcore" data-topic="Analysis" data-id="setStatus">}\href{../../jmvcore/html/Analysis.html#method-setStatus}{\code{jmvcore::Analysis$setStatus()}}\out{</span>}
-\item \out{<span class="pkg-link" data-pkg="ClinicoPathLinuxDescriptives" data-topic="tableoneBase" data-id="initialize">}\href{../../ClinicoPathLinuxDescriptives/html/tableoneBase.html#method-initialize}{\code{ClinicoPathLinuxDescriptives::tableoneBase$initialize()}}\out{</span>}
+\item \out{<span class="pkg-link" data-pkg="ClinicoPathDescriptives" data-topic="tableoneBase" data-id="initialize">}\href{../../ClinicoPathDescriptives/html/tableoneBase.html#method-initialize}{\code{ClinicoPathDescriptives::tableoneBase$initialize()}}\out{</span>}
 }
 \out{</details>}
 }
