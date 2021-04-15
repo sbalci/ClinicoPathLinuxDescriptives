@@ -70,6 +70,6 @@ datasets:
       - Data Summary
       - Cross Tables
 usesNative: true
-minApp: 1.8.0
+minApp: 1.6.0
 
 ...
