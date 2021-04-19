@@ -1,6 +1,6 @@
 ---
 title: Descriptives Functions for Clinicopathological Research
-name: ClinicoPathLinuxDescriptives
+name: ClinicoPathDescriptives
 version: 0.0.2.0084
 jms: '1.0'
 authors:
@@ -17,47 +17,47 @@ description: >-
 analyses:
   - title: Table One
     name: tableone
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Descriptives
     menuTitle: Table One
     description: Function for making Table One.
   - title: Summary of Continuous Variables
     name: summarydata
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Descriptives
     menuTitle: Summary of Continuous Variables
     description: Function for Generating Summaries for Continuous Variables.
   - title: Summary of Categorical Variables
     name: reportcat
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Descriptives
     menuTitle: Summary of Categorical Variables
     description: Function for Generating Summaries for Categorical Variables.
   - title: Cross Tables
     name: crosstable
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Comparisons
     menuTitle: Cross Tables
     description: Function for making Cross Tables.
   - title: Age Pyramid
     name: agepyramid
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Descriptive Plots
     menuTitle: Age Pyramid
   - title: Benford Analysis
     name: benford
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Descriptives
     menuTitle: Benford Analysis
   - title: Venn Diagram
     name: venn
-    ns: ClinicoPathLinuxDescriptives
+    ns: ClinicoPathDescriptives
     menuGroup: Exploration
     menuSubgroup: ClinicoPath Descriptive Plots
     menuTitle: Venn Diagram
