@@ -1,10 +1,10 @@
-# ClinicoPathLinuxDescriptives
+# ClinicoPathLinuxDescriptives  
 
-ClinicoPath jamovi module Descriptives
+ClinicoPath jamovi module Descriptives  
 
-functions working in Linux
+functions working in Linux  
 
-(not all packages work with Linux)
+(not all R- packages work with Linux)  
 
 See https://sbalci.github.io/ClinicoPathJamoviModule/
 
