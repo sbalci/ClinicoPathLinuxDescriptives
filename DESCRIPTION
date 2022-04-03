@@ -1,8 +1,8 @@
 Type: Package
 Package: ClinicoPathDescriptives
 Title: Descriptives Functions for Clinicopathological Research
-Version: 0.0.2.0084
-Date: 2021-02-14
+Version: 0.0.2.04
+Date: 2021-04-03
 Authors@R: 
     person(given = "Serdar",
            family = "Balci",
@@ -48,4 +48,4 @@ Remotes:
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2

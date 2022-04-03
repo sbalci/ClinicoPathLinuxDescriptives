@@ -41,4 +41,8 @@ items:
           - female
 
 
+refs:
+    - ClinicoPathJamoviModule
+
+
 ...
