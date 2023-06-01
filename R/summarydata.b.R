@@ -1,8 +1,4 @@
 #' @title Summary of Continuous Variables
-#'
-#'
-#'
-#'
 #' @importFrom R6 R6Class
 #' @import jmvcore
 #'
