@@ -37,12 +37,12 @@ Imports:
     tableone,
     tibble,
     tidyr,
-    gtsummary,
     kableExtra,
     finalfit,
     tangram,
     arsenal
 Remotes:
+    ddsjoberg/gtsummary@f43332fde6264ff95d092da644284dac739c4e17, 
     carloscinelli/benford.analysis,
     yanlinlin82/ggvenn
 Encoding: UTF-8
