@@ -1,8 +1,9 @@
 #' @title Venn Diagram
 #' @importFrom R6 R6Class
 #' @import jmvcore
+#' @importFrom dplyr inner_join
 #'
-#'
+
 
 vennClass <- if (requireNamespace('jmvcore'))
     R6::R6Class(

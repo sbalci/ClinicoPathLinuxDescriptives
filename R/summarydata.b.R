@@ -1,4 +1,6 @@
 #' @title Summary of Continuous Variables
+#' @return Text
+#'
 #' @importFrom R6 R6Class
 #' @import jmvcore
 #'
@@ -65,6 +67,19 @@ summarydataClass <- if (requireNamespace("jmvcore")) R6::R6Class("summarydataCla
 
             myvars <- unlist(myvars)
 
+            # ?ave
+
+            # grvar <- jmvcore::constructFormula(terms = self$options$grvar)
+            #
+            # grvar <- jmvcore::decomposeFormula(formula = grvar)
+            #
+            # grvar <- unlist(grvar)
+            #
+            # results <- stats::ave(x = jmvcore::toNumeric(mydata[[myvars]]),
+            #                       mydata[[grvar]],
+            #                       FUN = function(x) mean(x, na.rm = TRUE)
+            #                       )
+
             # mysummary function
             mysummary <- function(myvar) {
 
@@ -93,6 +108,7 @@ summarydataClass <- if (requireNamespace("jmvcore")) R6::R6Class("summarydataCla
             results <- unlist(results)
 
             self$results$text$setContent(results)
+
 
         }
 
